@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mad Level 3 Task 2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tvTitle">Titel</string>
+    <string name="tvLink">Link</string>
+    <string name="itLink">http://</string>
+    <string name="btnAddPortal">Add Portal</string>
+    <string name="smWrongInput">incorrect</string>
+
+</resources>
